@@ -1,8 +1,19 @@
 #banner {
-	background: rgb(196, 151, 192);
+	background-image: url("/Pictures/Waves.jpg");
 	width: 75%;
 	padding-left: 12.5%;
 	padding-right: 12.5%;
-	padding-top: 0.5%;
-	padding-bottom: 0.5%
+	padding-top: 1.5%;
+	padding-bottom: 1.5%
+}
+
+#topnav {
+	background: rgb(122,29,69);
+	padding: 1% 1% 1% 1%;
+}
+
+#topnav a{
+	text-decoration: none;
+	color: white;
+	padding: 1% 1% 1% 1%;
 }
