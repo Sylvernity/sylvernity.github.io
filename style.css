@@ -9,11 +9,16 @@
 
 #topnav {
 	background: rgb(122,29,69);
-	padding: 1% 1% 1% 1%;
+	padding: 1%;
+	padding-left: 0%;
 }
 
 #topnav a{
 	text-decoration: none;
 	color: white;
 	padding: 1% 1% 1% 1%;
+}
+
+#topnav a:hover {
+	background: rgb(167, 72, 113);
 }
