@@ -11,6 +11,7 @@
 	background: rgb(122,29,69);
 	padding: 1%;
 	padding-left: 0%;
+	margin: 1%;
 }
 
 #topnav a{
@@ -21,4 +22,9 @@
 
 #topnav a:hover {
 	background: rgb(167, 72, 113);
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
 }
