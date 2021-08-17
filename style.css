@@ -4,7 +4,8 @@
 	padding-left: 12.5%;
 	padding-right: 12.5%;
 	padding-top: 1.5%;
-	padding-bottom: 1.5%
+	padding-bottom: 1.5%;
+	margin-bottom: 0%;
 }
 
 #topnav {
@@ -12,6 +13,7 @@
 	padding: 1%;
 	padding-left: 0%;
 	margin: 1%;
+	margin-top: 0%;
 }
 
 #topnav a{
