@@ -1,8 +1,8 @@
 #banner {
 	background-image: url("/Pictures/Waves.jpg");
-	width: 75%;
-	padding-left: 12.5%;
-	padding-right: 12.5%;
+	width: 55%;
+	padding-left: 22.5%;
+	padding-right: 22.5%;
 	padding-top: 1.5%;
 	padding-bottom: 1.5%;
 	margin-bottom: 0%;
@@ -14,12 +14,14 @@
 	padding-left: 0%;
 	margin: 1%;
 	margin-top: 0%;
+	text-align: center;
 }
 
 #topnav a{
 	text-decoration: none;
 	color: white;
 	padding: 1% 1% 1% 1%;
+	text-align: center;
 }
 
 #topnav a:hover {
