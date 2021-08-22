@@ -8,7 +8,7 @@
 	margin-bottom: 0%;
 }
 
-#topnav {
+.topnav {
 	background: rgb(122,29,69);
 	padding: 1%;
 	padding-left: 0%;
@@ -17,18 +17,23 @@
 	text-align: center;
 }
 
-#topnav a{
+.topnav a{
 	text-decoration: none;
 	color: white;
 	padding: 1% 1% 1% 1%;
 	text-align: center;
 }
 
-#topnav a:hover {
+.topnav a:hover {
 	background: rgb(167, 72, 113);
 }
 
 body {
 	padding: 0px;
 	margin: 0px;
+}
+
+.content {
+	margin: 1%;
+	margin-top: 0%;
 }
